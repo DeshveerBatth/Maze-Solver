@@ -18,7 +18,7 @@ You need to have installed following softwares and libraries in your machine bef
 * Jupyter notebook
 ## Installing
 * Python 3: https://www.python.org/downloads/
-* Jupyter: https://jupyter.org/
+* Google collab: [https://jupyter.org/](https://colab.research.google.com/)
 ## Author
 Deshveer Singh - Complete work
  
