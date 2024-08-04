@@ -15,7 +15,7 @@ Since we are inputting an image let's see how to apply dijkistra algorithm here.
 ## Prerequisites
 You need to have installed following softwares and libraries in your machine before running this project.
 * Python 3
-* Jupyter notebook
+* Google collab
 ## Installing
 * Python 3: https://www.python.org/downloads/
 * Google collab: [https://jupyter.org/](https://colab.research.google.com/)
